@@ -1,9 +1,7 @@
-streamlit
-pandas
-numpy
-scikit-learn
-plotly
-matplotlib
-pycaret
-pyarrow
-joblib
+streamlit>=1.30.0
+pandas>=2.0.0
+numpy>=1.25.0
+plotly>=5.15.0
+pycaret[full]>=3.0.0
+joblib>=1.3.0
+toml>=0.10.2
